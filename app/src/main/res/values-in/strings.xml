@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="movies">Film</string>
+    <string name="tvseries">Serial TV</string>
+    <string name="name">Nama</string>
+    <string name="description">Deskripsi</string>
+    <string name="year">Tahun</string>
+    <string name="change_language_setting">Ganti Bahasa</string>
+    <string name="choose">Kamu Memilih </string>
+</resources>

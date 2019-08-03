@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name" translatable="false">DB Movies</string>
+    <string name="movies">Movies</string>
+    <string name="tvseries">TV Series</string>
+    <string name="name">Name</string>
+    <string name="description">Description</string>
+    <string name="year">Year</string>
+    <string name="change_language_setting">Change Languange</string>
+    <string name="title_activity_main" translatable="false">MainActivity</string>
+    <string name="choose">You Choose </string>
+</resources>
